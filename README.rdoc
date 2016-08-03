@@ -1,0 +1,2 @@
+= High School Forum
+Right now I'm trying to compose a prototype for my high school to intergrate a a news forum, here's my results so far...I'm open to new ideas guys.
